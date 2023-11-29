@@ -1,5 +1,4 @@
 # Guesser-Game
-Sure, here is a description of your guesser game formatted for a README.md file on GitHub:
 
 **Guesser Game**
 
